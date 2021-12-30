@@ -10,7 +10,7 @@ Before we can do anything you will require an AWS account, and all software and 
 
 [Project set up and configuration](https://pencilshinchan.github.io/AWSAmplifyTutorial/AmplifySetupAndConfig)
 
-##Set Up and Configure Authorization and Authentication
+## Set Up and Configure Authorization and Authentication
 
 [Auth set up and configuration](https://pencilshinchan.github.io/AWSAmplifyTutorial/SetupAndConfigAuth)
 
