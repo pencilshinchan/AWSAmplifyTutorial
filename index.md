@@ -4,6 +4,12 @@ This is a basic tutorial for AWS Amplify that will concentrate on the Auth and A
 
 A simple, but somewhat contrived example of a purchase order system will be created.
 
+### First things first
+
+Before we can do anything you will require an AWS account, and all software and packages need to be installed and configured.
+
+[Project set up and configuration](https://pencilshinchan.github.io/AWSAmplifyTutorial/AmplifySetupAndConfig)
+
 ### What kind of stuff will we do?
 
 - Create a React application using npx create-react-app
