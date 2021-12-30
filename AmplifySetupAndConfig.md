@@ -3,7 +3,7 @@
 ## Step 1: Create an AWS Account
 The below links are from the ExamPro channel on YouTube
 
-At a minimum create the account, which will require you to entere a credit card number. The free tier limits in AWS are extremely generous, and you should not be charged.
+At a minimum create the account, which will require you to enter a credit card number. The free tier limits in AWS are extremely generous, and you should not be charged.
 
 For safety, and to follow best practices follow all of the AWS videos below.
 
