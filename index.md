@@ -12,7 +12,7 @@ Before we can do anything you will require an AWS account, and all software and 
 
 ##Set Up and Configure Authorization and Authentication
 
-[Auth set up and configuration](https://pencilshinchan.github.io/AWSAmplifyTutorial/AuthSetupAndConfig)
+[Auth set up and configuration](https://pencilshinchan.github.io/AWSAmplifyTutorial/SetupAndConfigAuth)
 
 
 ### What kind of stuff will we do?
