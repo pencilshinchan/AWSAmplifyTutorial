@@ -1,3 +1,9 @@
-# Authorization and Authentication Setup and Configuration
+## AWS Amplify Basic Tutorial
 
-Add Authorization to the application using the Amplfy CLI
+This is a basic tutorial for AWS Amplify that will concentrate on the Auth and API that will be added via the Amplify CLI
+
+A simple, but somewhat contrived example of a purchase order system will be created.
+
+### First things first
+
+Before we can do anything you will require an AWS account, and all software and packages need to be installed and configured.
