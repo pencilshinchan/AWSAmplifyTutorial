@@ -1,3 +1,7 @@
+---
+permalink: /AuthConfig/
+
+
 ## AWS Amplify Basic Tutorial
 
 This is a basic tutorial for AWS Amplify that will concentrate on the Auth and API that will be added via the Amplify CLI
