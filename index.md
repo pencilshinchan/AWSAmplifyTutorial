@@ -26,6 +26,19 @@ Before we can do anything you will require an AWS account, and all software and 
 
 - [Auth set up and configuration](https://pencilshinchan.github.io/AWSAmplifyTutorial/AuthConfig)
 
+## Step 5: Create a custom authentication system
+
+Create files for SignUp, ConfirmSignUp, SignIn and ForgotPassword
+- Add routes to App.js
+- Test that the routes are working
+
+Add code to SignUp, ConfirmSignUp, SignIn and ForgotPassword components.
+- [Create Auth Pages](https://pencilshinchan.github.io/AWSAmplifyTutorial/AuthPages)
+
+## Step 6: Create an Admin system to add and remove users from groups
+
+Using the Admin Actions API see what groups users belong to and add and remove them from groups
+
 
 ### What kind of stuff will we do?
 
