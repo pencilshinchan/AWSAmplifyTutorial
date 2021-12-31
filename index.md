@@ -4,7 +4,7 @@ This is a basic tutorial for AWS Amplify that will concentrate on the Auth and A
 
 A simple, but somewhat contrived example of a purchase order system will be created.
 
-### Prerequisites
+## Step 1: Prerequisites
 
 Before you get going - if you are unfamiliar with React or Tailwind... it would be a good idea to get your feet wet with some React and Tailwind knowledge.
 
@@ -16,15 +16,15 @@ Next get to know Tailwind
 - [From the Creators of Tailwind](https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
 
 
-### First things first
+## Step 2:  First things first
 
 Before we can do anything you will require an AWS account, and all software and packages need to be installed and configured.
 
 [Project set up and configuration](https://pencilshinchan.github.io/AWSAmplifyTutorial/AmplifySetupAndConfig)
 
-## Set Up and Configure Authorization and Authentication
+## Step 3: Set Up and Configure Authorization and Authentication
 
-[Auth set up and configuration](https://pencilshinchan.github.io/AWSAmplifyTutorial/AuthConfig)
+- [Auth set up and configuration](https://pencilshinchan.github.io/AWSAmplifyTutorial/AuthConfig)
 
 
 ### What kind of stuff will we do?
