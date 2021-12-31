@@ -13,7 +13,7 @@ First get to know React and React Hooks
 
 Next get to know Tailwind
 - [Free Tailwind Course](https://www.youtube.com/watch?v=4wGmylafgM4&t=1276s)
-- [From the Creators of Tailwind](https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
+- [Free YouTube course from the Creators of Tailwind](https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
 
 
 ## Step 2:  First things first
