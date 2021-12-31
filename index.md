@@ -39,6 +39,18 @@ Add code to SignUp, ConfirmSignUp, SignIn and ForgotPassword components.
 
 Using the Admin Actions API see what groups users belong to and add and remove them from groups
 
+## Step 7: Create a single table design for a GraphQL API
+
+Using noSQL workbench create a structure for our data and define our access patterns
+
+## Step 8: Create a GraphQL API using the CLI
+
+Using the Amplify CLI create a GraphQL API
+
+Create our own unique mutations and queries
+
+
+
 
 ### What kind of stuff will we do?
 
